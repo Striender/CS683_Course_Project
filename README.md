@@ -9,6 +9,9 @@ Artifact used to evaluate the Berti prefetcher presented in the following paper:
 >To appear in _55th Proceedings of the International Symposium on 
 Microarchitecture_ (MICRO-55), October 2022.
 
+This artifact also contains the source code of **Bouquet of Instruction Pointers: Instruction Pointer
+Classifier-based Spatial Hardware Prefetching** that appeared in ISCA 2020
+
 ## Overview
 
 This repository provides an artifact to reproduce the SPEC CPU2017 single-thread
